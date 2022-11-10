@@ -1,0 +1,103 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.portada{
+	height: 70px;
+	background-color: brown;
+	text-align: center;
+}
+header img{
+	float: 	left;	
+	height: 75px;
+	margin-right: 	15px; 
+
+	
+}
+
+header h1{
+	background-color: brown;
+	float: left;
+	width: 1000px;
+	height: 30px;
+}
+
+.menu1{
+	width: 257px;
+	height: 37px;
+	float: right;
+	margin: 0 auto;
+	background-color: brown; 
+}
+
+.menu2 li{
+	padding: 0 0 0px;
+	list-style: none;
+	margin: 2px 0 0 0;
+	display: inline;
+	background: lightgreen;
+}
+
+.menu2 li a{
+	float: left;
+	height: 24px;
+	margin: 10px 0 0 20px;
+	text-align: center;
+}
+
+.imagen img{
+	margin-top: 0px;
+	width: 1350px;
+	height: 345px;
+	background-color: green;
+}
+
+.Informacion{
+	width: 550px;
+	margin-left: 50px;
+	text-align:center;
+	background-color: #BF3416;
+	height: 220px;
+	float: left;
+	margin-top: 35px;
+}
+
+.Informacion p{
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.Informacion2{
+	width: 550px;
+	text-align:center;
+	margin-right: 50px;
+	margin-top: 35px;
+	background-color: #BF3416;
+	height: 220px;
+	float: right;
+}
+
+.evento{
+	text-align: center;
+	width: 1340px;
+
+}
+
+.evento img{
+	width: 300px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.evento2{
+	background-color: #BC6C1C;
+	width: 1350px;
+}
+
+.evento2 p{
+	background-color: #2D4393;
+	height: 20px;
+	margin-top: 1px;
+}
